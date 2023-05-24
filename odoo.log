@@ -1,0 +1,18 @@
+2023-04-06 05:51:03,884 4148 INFO ? odoo: Odoo version 15.0-20230406 
+2023-04-06 05:51:03,884 4148 INFO ? odoo: Using configuration file at C:\Program Files\Odoo 15.0.20230406\server\odoo.conf 
+2023-04-06 05:51:03,884 4148 INFO ? odoo: addons paths: ['C:\\Program Files\\Odoo 15.0.20230406\\server\\odoo\\addons', 'c:\\users\\hp\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\program files\\odoo 15.0.20230406\\server\\odoo\\addons'] 
+2023-04-06 05:51:03,884 4148 INFO ? odoo: database: openpg@localhost:5432 
+2023-04-06 05:51:04,538 4148 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\Odoo 15.0.20230406\thirdparty\wkhtmltopdf.exe 
+2023-04-06 05:51:05,532 4148 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-06 05:51:05,532 4148 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-06 05:51:08,006 1508 INFO ? odoo: Odoo version 15.0-20230406 
+2023-04-06 05:51:08,007 1508 INFO ? odoo: Using configuration file at C:\Program Files\Odoo 15.0.20230406\server\odoo.conf 
+2023-04-06 05:51:08,007 1508 INFO ? odoo: addons paths: ['C:\\Program Files\\Odoo 15.0.20230406\\server\\odoo\\addons', 'c:\\users\\hp\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\program files\\odoo 15.0.20230406\\server\\odoo\\addons'] 
+2023-04-06 05:51:08,007 1508 INFO ? odoo: database: openpg@localhost:5432 
+2023-04-06 05:51:08,135 1508 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\Odoo 15.0.20230406\thirdparty\wkhtmltopdf.exe 
+2023-04-06 05:51:08,397 1508 INFO ? odoo.service.server: HTTP service (werkzeug) running on Manu.tendawifi.com:8069 
+2023-04-06 05:51:12,485 1508 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-06 05:51:16,567 1508 INFO ? odoo.sql_db: Connection to the database failed 
+2023-04-06 06:17:10,957 1508 INFO ? odoo.service.server: Initiating shutdown 
+2023-04-06 06:17:10,957 1508 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-04-06 06:17:11,011 1508 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
